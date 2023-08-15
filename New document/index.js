@@ -1,4 +1,4 @@
-var { User } = require("../Models");
+var { User } = require("../models");
 
 var obj = {
   loginId: "user13",
